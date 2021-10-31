@@ -1,0 +1,44 @@
+.title {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+.new-task-input {
+    width: 100%;
+    height: 24px;
+}
+.description-text-area {
+    width: 100%;
+    height: 70px;
+}
+.date-priority-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;   
+    width: 100%; 
+}
+.priority-box {
+    width: 45%;
+}
+.priority-select {
+    height: 24px;
+    width: 100%;
+}
+.add-button {
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    margin-top: 16px;
+}
+.task-label {
+    font-weight: 600;
+}
+.required-text {
+    color: red;
+    margin: 2px 0;
+}

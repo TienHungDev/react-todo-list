@@ -1,0 +1,38 @@
+.item-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    padding: 8px;
+}
+.left-box {
+
+}
+.right-box {
+    display: flex;
+
+}
+.detail-btn {
+    background-color: aquamarine;
+    padding: 4px 8px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 24px;
+}
+.remove-btn {
+    background-color: red;
+    padding: 4px 8px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.detail-box {
+    padding: 8px;
+    border: 1px solid black;
+    border-top: none;
+    margin-bottom: 16px;
+}

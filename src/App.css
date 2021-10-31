@@ -1,0 +1,16 @@
+.app-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.new-task-container {
+  width: 35%;
+  margin-right: 48px;
+}
+
+.todolist-container {
+  width: 35%;
+  margin-top: 24px;
+}
